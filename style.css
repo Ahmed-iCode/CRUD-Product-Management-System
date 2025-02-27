@@ -78,3 +78,9 @@ table th{
 th, td{
     padding: 5px;
 }
+#ahmed{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
